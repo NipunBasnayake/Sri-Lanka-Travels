@@ -97,6 +97,12 @@ body{
     box-shadow: 2px 4px 10px rgba(0, 0, 0, 0.3);
 }
 
+.whyChoosUsDiv{
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 .h1why{
     color: white;
     text-align: center;
@@ -128,6 +134,7 @@ body{
     margin-right: auto;
     padding: 40px;
     box-shadow: 2px 4px 10px rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
 }
 
 .camIcon{
@@ -183,14 +190,14 @@ body{
 
 
 .tableDiv{
-    align-items: center;
-    color: black;
-    background-color: white;
     width: 95%;
+    background-color: white;
     margin-top: 100px;
     margin-left: auto;
     margin-right: auto;
-    padding: 30px;
+    padding-top: 30px;
+    padding-bottom: 50px;
+    border-radius: 5px;
 }
 
 .tableCaption{
